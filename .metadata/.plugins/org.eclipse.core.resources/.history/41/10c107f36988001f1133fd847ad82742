@@ -1,0 +1,13 @@
+import static org.junit.Assert.*;
+
+import Solution4.java;
+
+public class Test {
+	private Solution4 solu = new Solution4();
+
+	@org.junit.Test
+	public void test() {
+		assert(3,solu.)
+	}
+
+}
